@@ -1,2 +1,2 @@
-# emacs.d
-my emacs configuration
+# 我的Emacs配置文件
+包含slime的配置
